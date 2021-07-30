@@ -17,7 +17,7 @@ Output: [0,0,9,0,0]
 """
 
 """
-Time Complexity:O(n)  |  Space Complexity:O(1)
+Time Complexity:O(n)  |  Space Complexity:O(n)
 """
 
 
